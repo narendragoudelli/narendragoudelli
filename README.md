@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Narendra
 - 👀 I’m interested in Coding, WPF, .NET Core, Cloud and MAUI
-- 🌱 I’m currently learning MAUI and .NET Core
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently focusing on improving myself as a human being
 - 📫 You can reach me on naren.g@hotmail.com
 
 <!---
